@@ -1,0 +1,43 @@
+/*=============header===================*/
+#header{height: 4rem;width: 16rem;background: #19b0e8;color: #FFFFFF;}
+#header i{display: block;float: left;width: 4rem;height: 2rem;line-height: 2rem;font-size: 0.7rem;text-align: left;padding-left: 0.3rem;font-style: normal;}
+#header b{height: 2rem;width: 4rem;line-height: 2rem;font-size: 0.7rem;font-weight: 100;display: block;float: right;text-align: right;padding-right: 0.3rem;}
+#header p{height: 2rem;width: 16rem;text-align: center;line-height: 2rem;font-size: 0.7rem;}
+#header p input{display: inline-block;height: 1rem;vertical-align: middle;font-size: 0.7rem;width: 4rem;background: #19b0e8;color: #fff;}
+#header p s{vertical-align: middle;font-size: 1rem;height: 1rem;text-decoration: none;}
+/*=============content====================*/
+#content{height: 24.4rem;width: 16rem;}
+#content dl{padding: 0.5rem 0;}
+#content dd i{font-size: 1rem;line-height: 1.2rem;}
+#content .ostation i{color: green;}
+#content .terminus i{color: red;}
+#content .car_type i{font-size: 0.7rem;display: inline-block;padding: 0.25rem;}
+#content dt{float: left;height: 5rem;line-height: 3rem;width: 4rem;text-align: center;}
+#content dd{float: left;height: 5rem;}
+#content .car{width: 8rem;font-size: 0.7rem;line-height: 1.2srem;}
+#content .price{width: 3.5rem;text-align: right;padding-right: 0.5rem;font-size: 0.7rem;color: #999;line-height: 1rem;}
+
+
+/*=============footer=====================*/
+#footer{height: 2rem;width: 16rem;opacity: 0.5;color: #fff;background: #000;position: fixed;bottom: 0;line-height: 1rem;padding: 0.5rem 0;}
+#footer li{float: left;width: 5.33rem;text-align: center;}
+#footer i{font-size: 1rem;}
+#footer span{font-size: 0.7rem;}
+
+/*==============mark==============================*/
+#mark{height: 100%;width: 100%;background: #000;position: fixed;left: 0;top: 0;display: none;background: rgba(0,0,0,0.5);}
+#mark .box{position: absolute;bottom: -14rem;height: 14rem;width: 16rem;background: #fff;border-radius: 0.2rem 0.2rem 0 0;overflow: hidden;}
+#mark .b_top{background: #182347;color: #fff;height: 2rem;font-size: 0.7rem;line-height: 2rem;padding: 0 1rem;}
+#mark .b_top .cancel{float: left;width: 3rem;}
+#mark .b_top .deter{float: right;}
+#mark .b_bottom{font-size: 0.7rem;line-height: 2rem;padding: 0 1rem;}
+#mark .b_bottom li{height: 2rem;border-bottom: 1px solid #999;padding: 0 1rem;}
+#mark .b_bottom input{display: block;float: right;height: 1rem;width: 1rem;margin-top: 0.5rem;background: #FFFFFF;box-shadow: -3px -3px 6px #888;}
+#mark .b_bottom .station{display: none;}
+#mark .b_bottom .tmout{display: none;}
+
+
+
+
+
+

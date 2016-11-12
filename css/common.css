@@ -1,0 +1,11 @@
+/*================清空默认样式===============*/
+body,h1,h2,h3,h4,h5,h6,p,html,input,img,dl,dt,dd,ul,ol,li{padding: 0;margin: 0;}
+ul,li{list-style: none;}
+img{display: block;}
+a{text-decoration: none;color: #3e3e3e;}
+a:hover{text-decoration: none;color: #3E3E3E;}
+
+/*================重置样式======================*/
+html,body{height: 100%;width: 100%;font-family: "微软雅黑";letter-spacing: 1px;}
+input{font-family: "微软雅黑";border: 0;outline:medium;}
+
